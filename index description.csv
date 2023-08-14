@@ -1,0 +1,79 @@
+﻿country,character,,
+iso3c,character,,
+date,numeric,,Num: 2004 to 2020
+SPI.INDEX.PIL1,numeric,Pillar 1  - Data Use – Score,Num: 0 to 100
+SPI.INDEX.PIL2,numeric,Pillar 2 – Data Services – Score,Num: 0.333 to 100
+SPI.INDEX.PIL3,numeric,Pillar 3 – Data Products – Score,Num: 4.894 to 90.938
+SPI.INDEX.PIL4,numeric,Pillar 4 – Data Sources – Score,Num: 0 to 92.6
+SPI.INDEX.PIL5,numeric,Pillar 5 – Data Infrastructure – Score,Num: 0 to 100
+SPI.INDEX,numeric,SPI Overall Score,Num: 11.77 to 90.468
+SPI.DIM1.5.INDEX,numeric,Dimension 1.5: Data use by international organizations,Num: 0 to 1
+SPI.DIM2.1.INDEX,numeric,Dimension 2.1: Data Releases,Num: 0 to 1
+SPI.DIM2.2.INDEX,numeric,Dimension 2.2: Online access,Num: 0.004 to 1
+SPI.DIM2.4.INDEX,numeric,Dimension 2.4: Data services,Num: 0 to 1
+SPI.DIM3.1.INDEX,numeric,Dimension 3.1: Social Statistics,Num: 0 to 0.927
+SPI.DIM3.2.INDEX,numeric,Dimension 3.2: Economic Statistics,Num: 0.033 to 0.958
+SPI.DIM3.3.INDEX,numeric,Dimension 3.3: Environmental Statistics,Num: 0.084 to 1
+SPI.DIM3.4.INDEX,numeric,Dimension 3.4: Institutional Statistics,Num: 0 to 0.945
+SPI.DIM4.1.CEN.INDEX,numeric,Dimension 4.1: Censuses,Num: 0 to 1
+SPI.DIM4.1.SVY.INDEX,numeric,Dimension 4.1: Surveys,Num: 0 to 1
+SPI.DIM4.2.INDEX,Numeric,Dimension 4.2: Administrative Data,Num: 0 to 1
+SPI.DIM4.3.INDEX,numeric,Dimension 4.3: Geospatial Data,Num: 0 to 0.795
+SPI.DIM5.1.INDEX,numeric,Dimension 5.1: Legislation and governance,Num: -99 to 1
+SPI.DIM5.2.INDEX,numeric,Dimension 5.2: Standards and Methods,Num: 0 to 1
+SPI.DIM5.5.INDEX,numeric,Dimension 5.5: Finance,Num: -99 to 1
+SPI.D1.5.POV,numeric,Dimension 1.5: Data use by international organizations - Availability of Comparable Poverty headcount ratio at $1.90 a day,Num: 0 to 1
+SPI.D1.5.CHLD.MORT,numeric,"Dimension 1.5: Data use by international organizations - Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME",Num: 0 to 1
+SPI.D1.5.DT.TDS.DPPF.XP.ZS,numeric,Dimension 1.5: Data use by international organizations - Quality of Debt service data according to World Bank,Num: 0 to 1
+SPI.D1.5.SAFE.MAN.WATER,numeric,Dimension 1.5: Data use by international organizations - Safely Managed Drinking Water,Num: 0 to 1
+SPI.D1.5.LFP,numeric,Dimension 1.5: Data use by international organizations - Labor force participation rate by sex and age (%),Num: 0 to 1
+SPI.D2.1.GDDS,numeric,Dimension 2.1: Data releases - SDDS/e-GDDS subscription,Num: 0 to 1
+SPI.D2.2.Machine.readable,numeric,Dimension 2.2: Online access - Machine Readability Score,Num: 0 to 1
+SPI.D2.2.Non.proprietary,numeric,Dimension 2.2: Online access - Non-Proprietary format Score,Num: 0 to 1
+SPI.D2.2.Download.options,numeric,Dimension 2.2: Online access - Download Options Score,Num: 0 to 1
+SPI.D2.2.Metadata.available,numeric,Dimension 2.2: Online access - Metadata Available Score,Num: 0 to 1
+SPI.D2.2.Terms.of.use,numeric,Dimension 2.2: Online access - Terms of Use Score,Num: 0 to 1
+SPI.D2.2.Openness.subscore,numeric,Dimension 2.2: Online access - ODIN Open Data Openness score,Num: 0.004 to 1
+SPI.D2.4.NADA,numeric,Dimension 2.4: Data access services - NADA metadata,Num: 0 to 1
+SPI.D3.1.POV,numeric,Dimension 3.1: SDG Goal 1 - GOAL 1: No Poverty,Num: 0 to 1
+SPI.D3.2.HNGR,numeric,Dimension 3.2: SDG Goal 2 - GOAL 2: Zero Hunger,Num: 0 to 1
+SPI.D3.3.HLTH,numeric,Dimension 3.3: SDG Goal 3 - GOAL 3: Good Health and Well-being,Num: 0 to 1
+SPI.D3.4.EDUC,numeric,Dimension 3.4: SDG Goal 4 - GOAL 4: Quality Education,Num: 0 to 0.909
+SPI.D3.5.GEND,numeric,Dimension 3.5: SDG Goal 5 - GOAL 5: Gender Equality,Num: 0 to 0.875
+SPI.D3.6.WTRS,numeric,Dimension 3.6: SDG Goal 6 - GOAL 6: Clean Water and Sanitation,Num: 0 to 1
+SPI.D3.7.ENRG,numeric,Dimension 3.7: SDG Goal 7 - GOAL 7: Affordable and Clean Energy,Num: 0.2 to 1
+SPI.D3.8.WORK,numeric,Dimension 3.8: SDG Goal 8 - GOAL 8: Decent Work and Economic Growth,Num: 0 to 0.923
+SPI.D3.9.INDY,numeric,"Dimension 3.9: SDG Goal 9 - GOAL 9: Industry, Innovation and Infrastructure",Num: 0 to 1
+SPI.D3.10.NEQL,numeric,Dimension 3.10: SDG Goal 10 - GOAL 10: Reduced Inequality,Num: 0 to 1
+SPI.D3.11.CITY,numeric,Dimension 3.11: SDG Goal 11 - GOAL 11: Sustainable Cities and Communities,Num: 0 to 1
+SPI.D3.12.CNSP,numeric,Dimension 3.12: SDG Goal 12 - GOAL 12: Responsible Consumption and Production,Num: 0 to 1
+SPI.D3.15.LAND,numeric,Dimension 3.15: SDG Goal 15 - GOAL 15: Life on Land,Num: 0 to 1
+SPI.D3.16.INST,numeric,Dimension 3.16: SDG Goal 16 - GOAL 16: Peace and Justice Strong Institutions,Num: 0 to 1
+SPI.D3.17.PTNS,numeric,Dimension 3.17: SDG Goal 17 - GOAL 17: Partnerships to achieve the Goal,Num: 0 to 1
+SPI.D3.13.CLMT,numeric,Dimension 3.13: SDG Goal 13 - GOAL 13: Climate Action,Num: 0 to 1
+SPI.D4.1.1.POPU,numeric,Dimension 4.1: censuses and surveys - Population & Housing census,Num: 0 to 1
+SPI.D4.1.2.AGRI,numeric,Dimension 4.1: censuses and surveys - Agriculture census,Num: 0 to 1
+SPI.D4.1.3.BIZZ,numeric,Dimension 4.1: censuses and surveys - Business/establishment census,Num: 0 to 1
+SPI.D4.1.4.HOUS,numeric,"Dimension 4.1: censuses and surveys - Household Survey on income, etc",Num: 0 to 1
+SPI.D4.1.5.AGSVY,numeric,Dimension 4.1: censuses and surveys - Agriculture survey,Num: 0 to 1
+SPI.D4.1.6.LABR,numeric,Dimension 4.1: censuses and surveys - Labor Force Survey,Num: 0 to 1
+SPI.D4.1.7.HLTH,numeric,Dimension 4.1: censuses and surveys - Health/Demographic survey,Num: 0 to 1
+SPI.D4.1.8.BZSVY,numeric,Dimension 4.1: censuses and surveys - Business/establishment survey,Num: 0 to 1
+SPI.D4.2.3.CRVS,numeric,Dimension 4.2: administrative data - CRVS (WDI),Num: 0 to 1
+SPI.D4.3.GEO.first.admin.level,numeric,Dimension 4.3: geospatial data - Geospatial data available at 1st Admin Level,Num: 0 to 0.795
+SPI.D5.1.DILG,numeric,Dimension 5.1: Legislation and governance - Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,Num: 0 to 1
+SPI.D5.2.1.SNAU,numeric,Dimension 5.2: standards - System of national accounts in use,Num: 0 to 1
+SPI.D5.2.2.NABY,numeric,Dimension 5.2: standards - National Accounts base year,Num: 0 to 1
+SPI.D5.2.3.CNIN,numeric,Dimension 5.2: standards - Classification of national industry,Num: 0 to 1
+SPI.D5.2.4.CPIBY,numeric,Dimension 5.2: standards - CPI base year,Num: 0 to 1
+SPI.D5.2.5.HOUS,numeric,Dimension 5.2: standards - Classification of household consumption,Num: 0 to 1
+SPI.D5.2.6.EMPL,numeric,Dimension 5.2: standards - Classification of status of employment,Num: 0 to 1
+SPI.D5.2.7.CGOV,numeric,Dimension 5.2: standards - Central government accounting status,Num: 0 to 1
+SPI.D5.2.8.FINA,numeric,Dimension 5.2: standards - Compilation of government finance statistics,Num: 0 to 1
+SPI.D5.2.9.MONY,numeric,Dimension 5.2: standards - Compilation of monetary and financial statistics,Num: 0 to 1
+SPI.D5.2.10.GSBP,numeric,Dimension 5.2: standards - Business process,Num: 0 to 1
+SPI.D5.5.DIFI,numeric,Dimension 5.5: Finance - Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,Num: 0 to 1
+income,character,,
+region,character,,
+weights,numeric,,Num: 1 to 1
+population,numeric,,Num: 9828 to 1410929362
